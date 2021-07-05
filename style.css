@@ -1,0 +1,121 @@
+
+ 
+.dropbtn {
+    background-color: darkorange;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+}
+ 
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+ 
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+ 
+.dropdown-content a {
+    color: white;
+    padding: 2px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+ 
+.dropdown-content a:hover {
+	background-color: gray;
+}
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+.dropdown:hover .dropbtn {
+	background-color: darkorange;
+}
+header{
+	background:url(2.jpg);
+	text-align: left;
+	text-decoration:none;
+	color:darkorange;
+	font-family: 'Montserrat', sans-serif;
+}
+a{
+	text-decoration:none;
+	color:darkorange;
+	font-family: 'Montserrat', sans-serif;
+}
+body{
+	background:white;
+	background-size:100%
+}
+.a1{
+ margin-left:150px;
+ margin-top:50px;
+}
+main{
+	font-family: 'Montserrat', sans-serif;
+	color:#000000;
+
+}
+.a2{
+	text-decoration:underline
+}
+.card{
+	display:inline-block;
+	text-align:left; 
+	border:6px ridge black;
+	border-radius:12px;
+	font-size:120%;
+	width: 20%;
+	margin-left: 3%;
+
+
+}
+.card img{
+	width: 100%;
+}
+
+.a6{
+	color:black;
+}
+.a6:hover{
+text-decoration:none;
+color:gray;
+}
+.gta5{
+	display:inline-block;
+	text-align:left; 
+	font-size:120%;
+}
+.a8{
+	text-decoration:underline;
+	margin-left:60%;
+}
+footer{
+	color:black;
+
+	font-size:120%;
+	text-decoration:none;
+}
+.a666{
+	width:50px;
+	border: none;
+}
+.a32{
+	position:fixed;
+	z-index:10;
+	bottom:20px;
+	right:10px;
+	width:40px;
+}
+.a7{
+	text-align:left;
+}
